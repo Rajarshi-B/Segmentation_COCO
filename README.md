@@ -40,8 +40,8 @@ This project demonstrates a complete image segmentation workflow using COCO-styl
 - Output masks are saved as **single-channel PNGs** with `uint8` values
 - **Note**: `category_id` remapping was deferred to training phase for flexibility
 
-### 📊 Visual Examples (replace paths with actual images)
-- ✅ Mask after filtering invalid annotations: `![](assets/sample_mask_filtered.jpg)`
+### 📊 Visual Example
+- ✅ Mask after filtering invalid annotations: ![](assets/sample_mask_filtered.png)
 
 ---
 
@@ -68,7 +68,7 @@ This project demonstrates a complete image segmentation workflow using COCO-styl
   - Loss per epoch, validation performance
   - Model configuration and training metadata
 - Visual prediction logging to be added in final version
-- `![](assets/wandb.png)`
+- ![](assets/wandb.png)
 
 ### 💾 Model Checkpoint
 - Best UNet model saved as `best_model.pth` when validation loss improved
