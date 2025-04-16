@@ -68,7 +68,7 @@ This project demonstrates a complete image segmentation workflow using COCO-styl
   - Loss per epoch, validation performance
   - Model configuration and training metadata
 - Visual prediction logging to be added in final version
-- `![](assets/WanDB.jpg)`
+- `![](assets/wandb.png)`
 
 ### 💾 Model Checkpoint
 - Best UNet model saved as `best_model.pth` when validation loss improved
