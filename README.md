@@ -7,10 +7,10 @@ This project demonstrates a complete image segmentation workflow using COCO-styl
 
 ---
 
-## 📁 Directory Structure
+## 📁 Directory Structure (A1.ipynb will make this structure)
 ```
 .
-├── A1.ipynb                        # Notebook for dataset preparation (Task 1)
+├── A1.ipynb                        # Notebook for dataset preparation and download (Task 1)
 ├── A2.ipynb                        # Notebook for UNet model training (Task 2)
 ├── data/
 │   ├── raw/                        # Original COCO images and annotations
