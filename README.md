@@ -1,4 +1,4 @@
-# assignment1_dataset_prep/README.md
+# assignment1 and 2_dataset_prep/README.md
 
 
 # 🧠 Image Segmentation Assignment
